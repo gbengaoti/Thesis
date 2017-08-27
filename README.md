@@ -4,6 +4,6 @@ This repository contains all experiments performed in this my thesis on "Predict
 The final models for this thesis are contained in files validation_second_model.py and validation_third_model.py
 
 The code from the experiments carried out in PyMC3 are based on the following tutorials from Thomas Weicki -
-http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/
+http://twiecki.github.io/blog/2016/07/05/bayesian-deep-learning/ and
 http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/
 
